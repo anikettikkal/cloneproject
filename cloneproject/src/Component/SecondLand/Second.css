@@ -1,0 +1,36 @@
+.secondiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 5rem;
+}
+.secondInfo{
+    width: 10rem;
+    border-radius: 15px;
+    background-color: rgb(62, 192, 244);
+    padding-top: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+.secondInfo:hover{
+    cursor: pointer;
+    background-color:rgb(84, 179, 216) ;
+}
+.img-second{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-second{
+    margin-left: 1.5rem;
+}
+.second-major{
+    background-color:rgb(62, 192, 244);
+}
+.second-head{
+    padding-top: 3rem;
+    padding-left: 3.5rem;
+    color: white;
+    font-weight: bold;
+}
