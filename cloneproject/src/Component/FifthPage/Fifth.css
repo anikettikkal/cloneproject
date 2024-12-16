@@ -1,0 +1,34 @@
+.fifth-main{
+    background-color: whitesmoke;
+    padding-bottom: 7rem;
+}
+.divided{
+    background-color: white;
+    width: 80%;
+    border: 1px solid grey;
+    border-radius: 10px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 7px 10px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+.Fifth-img{
+    width: 100%;
+    padding-bottom: 4rem;
+}
+.Fifth-heading{
+    padding-left: 10%;
+    padding-top: 5rem;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.headtwo{
+    font-weight: bold;
+    margin-top: 2rem;
+}
+.headthree{
+    margin-top: 2rem;
+}
+.image-card{
+    width: 100%;
+}

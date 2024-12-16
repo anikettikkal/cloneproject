@@ -1,0 +1,36 @@
+.secondivFour{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-bottom: 5rem;
+}
+.secondInfoFour{
+    width: 10rem;
+    border-radius: 15px;
+    background-color: #0d40a6;
+    padding-top: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+.secondInfoFour:hover{
+    cursor: pointer;
+    background-color:#10347b ;
+}
+.img-second{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-second{
+    margin-left: 1.5rem;
+}
+.second-majorFour{
+    background-color:#0d40a6;
+}
+.second-head{
+    padding-top: 3rem;
+    padding-left: 3.5rem;
+    color: white;
+    font-weight: bold;
+}
